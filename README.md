@@ -17,6 +17,9 @@ A new Flutter project.
 
 ##### - Display stored/added in CartPage
 
+##### - Remove the Products in CartPage 
+
+##### - Display The totalAmount/GST in CartPage 
 
 # video :-
 
