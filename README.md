@@ -17,7 +17,6 @@ A new Flutter project.
 
 ##### - Display stored/added in CartPage
 
-##### - 
 
 # video :-
 
